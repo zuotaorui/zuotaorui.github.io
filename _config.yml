@@ -1,4 +1,4 @@
-title: Blog - Leach Chen
+title: Blog - i-zhixuan
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -8,10 +8,10 @@ permalink: ':title/'
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings add your name
-author: Leach Chen
+author: i-zhixuan
 
 author-pic: leach-face.jpg
-about-author: I am an Android developer.I will add description latter.
+about-author: I am an Java developer.I will add description latter.
 
 #修改成你自己的
 # Contact links
@@ -34,7 +34,7 @@ csdn:
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus修改成你自己的
-discus_identifier: leach-chen
+discus_identifier: i-zhixuan
 # Add your discus identifier
 
 #intensedebate修改成你自己的
@@ -65,10 +65,10 @@ imagepath: /blogdemo
 
 links:
   - name:         Home
-    url:          https://www.leachchen.com
+    url:          https://zuotaorui.github.io
     external:     false
   - name:         About
-    url:          /blogdemo/about
+    url:          /about
     external:     false
 
 #添加分类步骤：
@@ -81,17 +81,9 @@ label2:  </span>
 
 
 links1:
-  - name:         所有
-    url:          /blog
-    type:         recent
-    external:     false
   - name:         随笔
-    url:          /blogdemo/myblog/essays
+    url:          /jekyll-github-blog
     type:         essays
-    external:     false
-  - name:         Jekyll
-    url:          /blogdemo/myblog/jekyll
-    type:         jekyll
     external:     false
 
 blog_1:    recent
